@@ -43,3 +43,14 @@
     git log --all
     git log --oneline --all
 
+## Как перемещатся по версиям репозитория
+
+Для того что бы переместится по истории репозитория нужно ввести:
+
+    git checkout 'some hash number'
+
+Для возврата в последний коммит нажно ввести:
+
+    git checkout master ore main
+    
+     
