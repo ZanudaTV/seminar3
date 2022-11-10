@@ -7,4 +7,8 @@
     git config -- global user.name "Ваше имя"
     git config -- global user.email "Ваш е-маил"
 
-    
+## Создание репозитория
+
+Чьлбы инициализировать новый репозиторий нужно ввести комадну:
+
+    git init
